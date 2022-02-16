@@ -1,5 +1,17 @@
 # Panel-Review-Tools
-Google script-driven spreadsheets provide a voting management tool for proposal review panels.  Some files are generated for each panel, others are created to consolidate panel results. 
+The below is a link to the Create Voting System spreadsheet on Google Drive: 
+
+https://docs.google.com/spreadsheets/d/1kghxn7aBy22jxkettZE1ZcgyK_9PUyfzWmQnpr6Kojg/copy
+
+If you hit the "Copy" button that appears when you follow the above link, a copy of the spreadsheet will appear on the "Shared With ME" folder in your Google Drive.  That copy, which will include the attached script that makes Create Voting System work, is yours to use as you prepare your review panels.  Note that you should move the spreadsheet down into a folder that you want to designate for the voting system files.  All of the voting system files will be generated UNDER the folder that you place Create Voting System into.
+
+The script should work right out of the box.  You may have to "accept persmissions" when you first try running the buttons in the menu that allow you to configure the voting system format.  
+
+Feel free to contect me if you run into permisison problems or if you notice any bugs as you use the code. 
+
+-------------------------------------------------------
+
+Create Voting System is a Google script-driven spreadsheet that generates voting management tools for proposal review panels.  Some files are generated for each panel, others are created to consolidate panel results. 
 
 The files generated for each panel are:
 * a voting ballot for each reviewer
@@ -11,7 +23,8 @@ In addition to generating the panel-level files, a "consolidation" file is gener
 
 Each file can be customized using Create Voting System to specify contents and whether to color-code the scores, whether to use adjectival or numerical scoring system, whether to display standard deviation, etc. 
 
-========================================================================================================================
+----------------------------------------------
+
 Now we discuss each of these files in more detail: 
 
 Voting Ballot:  This spreadsheet lists all of the proposals under review by the panel, and provides columns for the reviewer to type in their vote/score for each proposal.  Their vote may be one score for a single criterion (like scientific justification), or can be several "sub-criteria" that, when computed as a weighted sum, provide a "final" vote for that criterion.  There may also be more than 1 criteria to vote on (for example, in addition to scientific justification, which could itself have up to 10 subcriteria, one might have another criterion such as technical merit, which also could involve up to 10 subcriteria).  Up to 12 criteria can be included on the ballot, with each criteria including up to 10 subcriteria, if desired.   The weights involved in a weighted sum, in cases for which multiple sub-criteria are involved, are specified by the user when setting up the format for the voting ballot using the Create Voting System script.  The ballots also indicate if any of the proposals have "external reviews" (or "write-in" reviews, reviews by experts who are not full-time panelists).  The ballots also show the reviewer what role the reviewer plays on each of the proposals (e.g., Primary, Secondary reviewer or Conflict of Interest).  The ballot allows the role designation to be changed by the reviewer if the information is outdated and roles were changed just prior to the review meeting. 
