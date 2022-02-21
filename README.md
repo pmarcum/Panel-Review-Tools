@@ -5,7 +5,15 @@ https://docs.google.com/spreadsheets/d/1kghxn7aBy22jxkettZE1ZcgyK_9PUyfzWmQnpr6K
 
 If you hit the "Copy" button that appears when you follow the above link, a copy of the spreadsheet will appear on the "Shared With ME" folder in your Google Drive.  That copy, which will include the attached script that makes Create Voting System work, is yours to use as you prepare your review panels.  Note that you should move the spreadsheet down into a folder that you want to designate for the voting system files.  All of the voting system files will be generated UNDER the folder that you place Create Voting System into.
 
-The script should work right out of the box.  You may have to "accept persmissions" when you first try running the buttons in the menu that allow you to configure the voting system format.  
+The script should work right out of the box.  You may have to "accept persmissions" when you first try running the buttons in the menu that allow you to configure the voting system format.  More specifically, to get through the authorizations (a one-time only task): 
+
+"Authorization Required" --> click on the GREEN "Continue" 
+"Choose an account" --> select the Google Account / email that you wish to use by clicking on it.
+"Google hasn't verified this app":  
+    --> scroll to the bottom and click on the small grey underlined "Advanced" in lower left corner.
+    --> scroll down to bottom and click on small grey underlined "Go to createVotingSystem (unsafe)" at the very bottom.
+"createVotingSystem wants to access your Google Account" --> scroll to the bottom and click the "Allow" button.
+After the above steps, you will be able to run the scripts. 
 
 Feel free to contect me if you run into permisison problems or if you notice any bugs as you use the code. 
 
