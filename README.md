@@ -8,11 +8,17 @@ If you hit the "Copy" button that appears when you follow the above link, a copy
 The script should work right out of the box.  You may have to "accept persmissions" when you first try running the buttons in the menu that allow you to configure the voting system format.  More specifically, to get through the authorizations (a one-time only task): 
 
 "Authorization Required" --> click on the GREEN "Continue" 
+
 "Choose an account" --> select the Google Account / email that you wish to use by clicking on it.
+
 "Google hasn't verified this app":  
+
     --> scroll to the bottom and click on the small grey underlined "Advanced" in lower left corner.
+    
     --> scroll down to bottom and click on small grey underlined "Go to createVotingSystem (unsafe)" at the very bottom.
+    
 "createVotingSystem wants to access your Google Account" --> scroll to the bottom and click the "Allow" button.
+
 After the above steps, you will be able to run the scripts. 
 
 Feel free to contect me if you run into permisison problems or if you notice any bugs as you use the code. 
