@@ -27,6 +27,10 @@ The files generated for each panel are:
 * a dashboard that is a duplicate of the scoresheet but with an additional section that provides a view of each panelist's votes for each proposal.  This file is intended only  for use of the Panel Monitor, to allow monitoring of the panel (e.g., to make sure that each proposal receives all the votes expected, etc.).
 * a "tracking sheet" that provides a list of the proposals under review by the panel and columns allowing the reviewers to indicate progress as they develop the final written evaluation for each proposal. 
 
+-------------------------------------------------------------------------------------
+UPDATES: 
+02/21/2022 - I will be posting a YouTube video soon, describing how to use this tool
+
 In addition to generating the panel-level files, a "consolidation" file is generated that is for the explicit use of the Program Officer who is overseeing the entire review.  This spreadsheet collects all of the final scores from each scoresheet in each panel, to faciliate an easy look-over of all proposals reviewed across all panels.  This file will also collect any special notes/comments made about proposals by the panelists. 
 
 **Each file can be customized using Create Voting System to specify contents and whether to color-code the scores, whether to use adjectival or numerical scoring system, whether to display standard deviation, etc.**  The files can be made as simple or fancy as desired, with multiple review criteria and each criteria having several sub-criteria, or just a plain ballot with one evaluation criterion and no sub-criteria. You can choose the ballots and scoresheet to have scores and standard deviations color-coded, or just display as plain scores.  You can choose to have the ballots and scoresheet show only letter scores, or both letter and numerical scores.  
